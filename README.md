@@ -4,7 +4,7 @@
 - 💻 I'm a fullstack web developer.
 - ⛱️ I'm currently living in Alicante, Spain.
 - 🚧 I’m currently working on everything javascript, typescript and node.
-- 🌱 I’m currently forward to learn something rust/go.
+- 🌱 I'm currently looking forward to learning Rust or Go.
 
 ---
 
